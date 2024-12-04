@@ -1,3 +1,5 @@
+import { ShopItem } from '../types/ShopItem.tsx';
+
 function ShopItemFunc({ item }: { item: ShopItem }) {
   return (
     <div className="main-content">
