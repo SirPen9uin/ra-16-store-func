@@ -1,4 +1,5 @@
 import ShopItemFunc from './components/ShopItemFunc.jsx'
+import { ShopItem } from './types/ShopItem.tsx'
 import './App.css'
 
 function App() {
